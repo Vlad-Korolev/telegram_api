@@ -1,2 +1,4 @@
-# telegram_api
-Bot Telegram (Long-Pooling)
+# Telegram bor (Long-Pooling)
+[Задачи]
+
+[Возможности]
