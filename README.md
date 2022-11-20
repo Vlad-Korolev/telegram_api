@@ -1,4 +1,4 @@
-# Telegram bor (Long-Pooling)
+# Telegram bot (Long-Pooling)
 [Задачи]
 
 [Возможности]
